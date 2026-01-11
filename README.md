@@ -1,2 +1,2 @@
 # Effects-of-Drought-and-Fertilization-on-Primary-Metabolism-in-Savoy-Cabbage
-GC-FID and GC-MS based metabolomics study examining how drought and fertilization alter primary metabolic pathways in Savoy cabbage, with a focus on amino acids, organic acids, and stress related metabolites.
+This repository contains a metabolomics analysis of Savoy cabbage exploring how drought stress and fertilization, individually and in combination, affect primary metabolism. Using GC-FID, GC-MS, and multivariate statistics, the study identifies key metabolic shifts associated with stress adaptation and nutrient driven growth.
